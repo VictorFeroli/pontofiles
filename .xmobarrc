@@ -1,6 +1,6 @@
 Config {
    -- appearance
-     font             = "xft:SauceCodePro Nerd Font Mono:pixelsize=12:bold:antialias=true"
+     font             = "xft:JetBrainsMono Nerd Font:pixelsize=12:bold:antialias=true"
    , additionalFonts  = [ "xft:waffle:pixelsize=0:size=9" ]
    , iconOffset       = 10
    , bgColor          = "#3B4252"

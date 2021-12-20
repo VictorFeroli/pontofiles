@@ -48,7 +48,7 @@ myBorderWidth = 1
 
 
 myLauncher :: String
-myLauncher = "dmenu_run -i -fn 'SF Mono:pixelsize=12' -bw 1 -h 22 -l 7 -g 1 -p 'Run:' -nb '#3B4252' -nf '#D8DEE9' -sb '#81A1C1' -sf '#2E3440'"
+myLauncher = "dmenu_run -i -fn 'SF Display:pixelsize=12' -h 22 -l 7 -bw 1 -p 'Run:' -nb '#3B4252' -nf '#D8DEE9' -sb '#81A1C1' -sf '#2E3440'"
 
 myNormalBorderColor  = "#4C566A"
 myFocusedBorderColor = "#D8DEE9"
